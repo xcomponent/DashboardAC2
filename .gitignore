@@ -1,2 +1,6 @@
-data/plugins/*
-sessions/
+bin/
+conf/
+data/
+public/
+scripts/
+tools/
