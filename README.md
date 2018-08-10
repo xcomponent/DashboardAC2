@@ -3,11 +3,11 @@ DashboardAC2 is package that allows you to monitor AC2 applications via a web in
 
 # Build
 * Download the git repository<br>
-* Launch the command line: ``` yarn run build ```
+* Launch the command line: ``` ./build.ps1 ```
 
 
 # Start
-* Launch the command line: ``` yarn start ```<br>
+* Launch the command line: ``` .\grafana-5.2.2\bin\grafana-server.exe -homepath .\grafana-5.2.2\ ```<br>
 * Open browser on http://localhost:3000
 
 # Data Sources

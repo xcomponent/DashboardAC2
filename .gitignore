@@ -4,3 +4,5 @@ data/
 public/
 scripts/
 tools/
+grafana-5.2.2/
+*.zip
