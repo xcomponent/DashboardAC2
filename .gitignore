@@ -1,2 +1,2 @@
-data/plugins/grafana-piechart-panel
-data/plugins/grafana-simple-json-datasource
+data/plugins/*
+sessions/
