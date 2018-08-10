@@ -1,0 +1,12 @@
+{
+  "name": "DashboardAC2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xcomponent/DashboardAC2.git",
+  "author": "XComponent <dev@xcomponent.com> (http://www.xcomponent.com)",
+  "scripts": {
+    "build": ".\\build.bat",
+    "start": ".\\bin\\grafana-server.exe"
+},
+  "license": "Apache-2.0"
+}
