@@ -1,8 +1,3 @@
-bin/
-conf/
-data/
-public/
-scripts/
-tools/
 grafana-5.2.2/
+!/grafana-5.2.2/data/grafana.db
 *.zip
