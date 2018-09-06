@@ -19,6 +19,11 @@ Before getting the dashboard to be displayed correctly, data sources configurati
 * Finally, click "Save & Test" button to check out that everything is working fine<br><br>
 <img src="./img/datasource.png" alt="drawing" width="50%"/>
 
+# Dashboard
+* To create a dashboard click on "Create your first dashboard"
+* Click on "Add panel" to view the available panels for the dashboard
+* Then AC2 can be monitored using Pie Chart or Diagram panels 
+
 # PieChart
 * Select the appropriate data source
 * Select the AC2 application <br>
