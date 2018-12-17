@@ -5,4 +5,4 @@ PowerShell Expand-Archive -Path ".\\out.zip" -DestinationPath .
 #Download plugins
 .\grafana-5.2.2\bin\grafana-cli --pluginsDir .\grafana-5.2.2\data\plugins plugins install grafana-simple-json-datasource
 .\grafana-5.2.2\bin\grafana-cli --pluginsDir .\grafana-5.2.2\data\plugins plugins install grafana-piechart-panel
-git clone https://github.com/mbarekh/grafana-diagram .\grafana-5.2.2\data\plugins\jdbranham-diagram-panel
+git clone https://github.com/xcomponent/grafana-plugin-ac2 .\grafana-5.2.2\data\plugins\grafana-plugin-ac2
